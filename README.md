@@ -1,14 +1,5 @@
 # Sistema de Videovigilancia Inteligente
 
-## H3 Tarea 3 — Uso de Git para herramientas de gestión
-
-**Proyecto:** Sistema de Videovigilancia con Visión por Computadora y Aprendizaje Automático para detectar en tiempo real conductas sospechosas en comercios de El Alto.
-
-**Estudiante:** Isabel Condori Caballero  
-**Asignatura:** Proyecto Integrador II  
-**Docente:** Ing. Juan Gabriel Lazcano Balanza  
-**Lugar:** El Alto, Bolivia  
-**Gestión:** 2026
 
 ## Objetivo del repositorio
 
